@@ -18,7 +18,7 @@ The serial implementation the Heat Flow Application will be written and then set
 
 ## Preliminary Investigation
 
-Todo: Run some tests to see perfomr
+Todo: Run some tests to see performance of library, effect of different threads running at the same time. 
 
 Todo: See how different scheduling variations of OpenMP (dynamic, static, chunked) may affect a typical parallelized application, or maybe just ours. 
 
